@@ -2,9 +2,6 @@
 target/
 **/target/
 
-# Cargo lock (para projetos de estudo, pode optar por commitar ou ignorar)
-Cargo.lock
-
 # Arquivos gerados pelo sistema
 .DS_Store
 Thumbs.db
